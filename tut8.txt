@@ -1,0 +1,11 @@
+Activity 1
+
+Q1:Efficient file storage and organisation are important because they help research team members find, access, and update files quickly. A clear folder structure reduces confusion, avoids duplicated work, and helps maintain the accuracy and integrity of research data. It also makes collaboration easier when multiple people are working on the same project.
+
+Q2:
+I would store the research materials in separate folders based on their data type, such as Literature_Review, Quantitative_Analysis, Qualitative_Analysis, Drafts_and_Reports, and Additional_Materials. Sensitive files, including interview transcripts, consent forms, raw survey data, and participant information, should have restricted access because they may contain personal or confidential information. This helps protect participant privacy and supports ethical research practice.
+
+Activity 2
+
+Q1:
+A good naming convention is important because it makes files easier to identify, search, and manage. Clear and consistent file names help team members understand the content, date, and version of a file without opening it. This reduces confusion and prevents mistakes when multiple people are working on the same research project.
